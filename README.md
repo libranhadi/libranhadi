@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-# [About Me]
+# About Me
 👋 Hi, I'm Libran Hadi Saputra <br>
 
 A professional worker with experience as a software engineer, bringing a strong focus to programming. <br>
