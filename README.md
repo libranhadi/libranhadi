@@ -39,7 +39,7 @@ I am committed to developing insight, adaptability, and honing critical thinking
 
 Some of the projects I have worked on :
 
-1. **[Marketplace]L(https://github.com/libranhadi/bwa-store):** BWA STORE is the first application that I implemented using a marketplace theme. using Tech Stack laravel, vue js, jquery, and mysql. <br>
+1. **[Marketplace](https://github.com/libranhadi/bwa-store):** BWA STORE is the first application that I implemented using a marketplace theme. using Tech Stack laravel, vue js, jquery, and mysql. <br>
 
 feature :
 Add To Cart <br>
@@ -47,7 +47,7 @@ Checkout <br>
 Payment Gateways <br>
 
 There are also new ones that I want to make and are still in the development stage : <br> 
-2. **[Note App For Reminder Improve](https://github.com/libranhadi/journey-authentication):**
+2. **[Note App For Reminder Improve](https://github.com/libranhadi/journey-authentication):** Tech Stack : Golang
 
 
 
