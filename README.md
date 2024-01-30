@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 👋 Hi, I'm Libran Hadi Saputra <br>
 
 A professional worker with experience as a software engineer, bringing a strong focus to programming. <br>
-I am committed to developing insight, adaptability, and honing critical thinking, Able to integrate technical expertise to achieve efficient solutions. I am always eager to learn and contribute to an innovative work environment
+I am committed to developing insight, adaptability, and honing critical thinking, Able to integrate technical expertise to achieve efficient solutions. I am always eager to learn and contribute to an innovative work environment 
 
 
 :computer: I’m currently learning about Golang, Node JS <br>
-📫 How to reach me: libranhadisaputra@gmail.com <br>
 
 
 ## 🚀 SKILLS
