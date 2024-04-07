@@ -45,8 +45,8 @@ Add To Cart <br>
 Checkout <br>
 Payment Gateways <br>
 
-There are also new ones that I want to make and are still in the development stage : <br> 
-2. **[Note App For Reminder Improve](https://github.com/libranhadi/journey-authentication):** Tech Stack : Golang
+<!-- There are also new ones that I want to make and are still in the development stage : <br> 
+2. **[Note App For Reminder Improve](https://github.com/libranhadi/journey-authentication):** Tech Stack : Golang -->
 
 
 
